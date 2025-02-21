@@ -84,6 +84,11 @@ INSERT INTO `tour` (`tour_id`, `no`, `nama`, `jenis_kelamin`, `include`, `jasa_s
 (3, '1', 'MARSELINO', 'LAKI-LAKI', '1. Penginapan 1 hari\r\n2. Sarapan\r\n3. Tiket Destinasi\r\n4. Dokumentasi', '5.000.000'),
 (4, '2', 'MARTIN', 'Laki-laki', '1. Penginapan 2 hari\r\n2. Sarapan pagi dan makan siang\r\n3. Tiket Destinasi\r\n4. Dokumentasi', '7.000.000'),
 (5, '3', 'ANJANY', 'PEREMPUAN', '1. Penginapan 3 hari\r\n2. Sarapan, makan siang dan makan malam\r\n3. Tiket destinasi\r\n4. Dokumentasi', '10.000.000');
+(6, '4', 'FERDY ANCA', 'LAKI-LAKI', '1. Penginapan 1 hari\r\n2. Sarapan\r\n3. Tiket Destinasi\r\n4. Dokumentasi', '5.000.000'),
+(7, '5', 'JUAN SATURDAY', 'Laki-laki', '1. Penginapan 2 hari\r\n2. Sarapan pagi dan makan siang\r\n3. Tiket Destinasi\r\n4. Dokumentasi', '7.000.000'),
+(8, '6', 'AWI BLACK', 'LAKI-LAKI', '1. Penginapan 3 hari\r\n2. Sarapan, makan siang dan makan malam\r\n3. Tiket destinasi\r\n4. Dokumentasi', '10.000.000');
+(9, '7', 'AAN MUH', 'Laki-laki', '1. Penginapan 2 hari\r\n2. Sarapan pagi dan makan siang\r\n3. Tiket Destinasi\r\n4. Dokumentasi', '7.000.000'),
+
 
 -- --------------------------------------------------------
 
